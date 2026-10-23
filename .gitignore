@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+*token*.json
+client_secret*.json
+credentials*.json
+*.sqlite*
+*.db
+__pycache__/
+node_modules/
